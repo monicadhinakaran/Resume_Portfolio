@@ -23,7 +23,8 @@ Your portfolio likely has sections like:
 - Resume – Embedded or downloadable resume
 - Projects – Cards or links showcasing your work
 - Contact – Email, LinkedIn, GitHub, etc.
-How to Navigate:
+  
+## How to Navigate:
 - Open the site in any browser.
 - Use the navigation bar (usually at the top) to jump between sections.
 - Scroll down for a linear experience, especially on mobile.
