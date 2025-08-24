@@ -10,7 +10,7 @@ Check out the live version https://monicadhinakaran.github.io/Resume_Portfolio/
 - 🎨 Clean and responsive design
 - 🌐 Hosted via GitHub Pages
 ## Installation
-  Clone the repo:
+1. Clone the repo:
    ```bash
    git clone https://github.com/monicadhinakaran/Resume_Portfolio.git
 
