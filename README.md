@@ -10,12 +10,12 @@ Check out the live version https://monicadhinakaran.github.io/Resume_Portfolio/
 - 🎨 Clean and responsive design
 - 🌐 Hosted via GitHub Pages
 ## Installation
-1. Clone the repo:
+  Clone the repo:
    ```bash
    git clone https://github.com/monicadhinakaran/Resume_Portfolio.git
 
 
-### 6. Usage
+### Usage
 
 🧭 Navigation Guide
 Your portfolio likely has sections like:
@@ -24,7 +24,7 @@ Your portfolio likely has sections like:
 - Projects – Cards or links showcasing your work
 - Contact – Email, LinkedIn, GitHub, etc.
   
-## How to Navigate:
+### How to Navigate:
 - Open the site in any browser.
 - Use the navigation bar (usually at the top) to jump between sections.
 - Scroll down for a linear experience, especially on mobile.
